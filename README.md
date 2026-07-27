@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
 
-[Brief Introduction]
+##Brief Introduction
 
 I am a recent Computer Science graduate with profound interest in technology and solving complex problems.
 
