@@ -6,6 +6,19 @@
   <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
 
+[Brief Introduction]
+
+I am a recent Computer Science graduate with profound interest in technology and solving complex problems.
+
+
+##Objective
+
+My journey in Computer Science has led me to develop interest and passion in cybersecurity, and i'm now eager to transition into this field, specifically aiming to join Security Operations Center (SOC) as a Tier 1 Analyst.
+
+
+|Skill                                                            | Associated project                                                    |
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 ##Certification
 
 <a href="https://coursera.org/verify/professional-cert/YLEKE6RKYSOZ" target="_blank">
