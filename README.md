@@ -19,7 +19,7 @@ My journey in Computer Science has led me to develop interest and passion in cyb
 #Projects
 1. Controlling access to restricted content using IP Addresses: https://github.com/Vhazee/Zwivhuya_Muthathi-Cybersecurity/blob/d7ed42bb79996e54b858e74a56b218f43baa56eb/Algorithm%20for%20file%20updates%20in%20Python%20(short).pdf
 
-2. 
+2. Mastercard Job Simulation: https://github.com/Vhazee/Zwivhuya_Muthathi-Cybersecurity/blob/86503a8fe9ffb3730dcb3835ae0bc36762ecd734/Mastercard%20Job%20Simulation.zip
 
 
 ##Certification
