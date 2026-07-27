@@ -18,7 +18,8 @@ My journey in Computer Science has led me to develop interest and passion in cyb
 
 |Skill                                                            | Associated project                                                    |
 -------------------------------------------------------------------------------------------------------------------------------------------
-
+1. Algorithm to remove control access to restricted content using | 
+   IP address.                                                    |
 ##Certification
 
 <a href="https://coursera.org/verify/professional-cert/YLEKE6RKYSOZ" target="_blank">
