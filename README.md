@@ -16,10 +16,10 @@ I am a recent Computer Science graduate with profound interest in technology and
 My journey in Computer Science has led me to develop interest and passion in cybersecurity, and i'm now eager to transition into this field, specifically aiming to join Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
-|Skill                                                            | Associated project                                                    |
--------------------------------------------------------------------------------------------------------------------------------------------
-1. Algorithm to remove control access to restricted content using | 
-   IP address.                                                    |
+#Projects
+1. Controlling access to restricted content using IP Addresses: 
+
+
 ##Certification
 
 <a href="https://coursera.org/verify/professional-cert/YLEKE6RKYSOZ" target="_blank">
