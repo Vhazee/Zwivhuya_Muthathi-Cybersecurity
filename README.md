@@ -33,4 +33,8 @@ My journey in Computer Science has led me to develop interest and passion in cyb
   <img src="https://img.shields.io/badge/IBM-Data%20Analytics%20Professional%20Certificate-%23052F62?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analytics Certificate">
 </a>
 
+<br></br>
+<a href="https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_LgeGAp9n8sS4g4tjZ_1784662948357_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/The%20Forage-Virtual%20Experience-00A86B?style=for-the-badge" alt="The Forage Virtual Experience Certificate">
+</a>
 
