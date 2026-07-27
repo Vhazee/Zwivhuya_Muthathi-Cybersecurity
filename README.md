@@ -21,6 +21,8 @@ My journey in Computer Science has led me to develop interest and passion in cyb
 
 2. Mastercard Job Simulation: https://github.com/Vhazee/Zwivhuya_Muthathi-Cybersecurity/blob/86503a8fe9ffb3730dcb3835ae0bc36762ecd734/Mastercard%20Job%20Simulation.zip
 
+3. Tryhackme wireshark challenge: 
+
 
 ##Certification
 
