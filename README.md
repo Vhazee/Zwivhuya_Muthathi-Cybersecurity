@@ -1,5 +1,10 @@
-# Zwivhuya_Muthathi-Cybersecurity
-Repository contains cybersecurity challenges/practice projects
+Hello, i'm Zwivhuya
+
+##Connect with me
+
+<a href="https://www.linkedin.com/in/zwivhuya-muthathi-17522193/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a>
 
 ##Certification
 
@@ -12,8 +17,4 @@ Repository contains cybersecurity challenges/practice projects
   <img src="https://img.shields.io/badge/IBM-Data%20Analytics%20Professional%20Certificate-%23052F62?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analytics Certificate">
 </a>
 
-##Connect with me
 
-<a href="https://www.linkedin.com/in/zwivhuya-muthathi-17522193/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-</a>
